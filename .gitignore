@@ -2,3 +2,6 @@ ch2-using-transformers/model_dir/*
 ch2-using-transformers/model_dir
 tokenizer_dir/
 test-trainer
+models/*
+datasets/*
+
